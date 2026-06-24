@@ -1,2 +1,28 @@
-# 447f91e5-membership-community-standar
-What if have a complete productivity system running today took minutes instead of hours?  Pre-built databases, views, and formula fields — ready to duplicate and use. Mobile-optimized for Notion iOS and Android — works everywhere you work.  ## What's Included  - Membership &amp; Community Standard Operating Procedures Library — fully configured and rea
+# Membership & Community Standard Operating Procedures Library Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/7sYdR94eP3o8aNO1ZicZB3r)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/7sYdR94eP3o8aNO1ZicZB3r)
+
